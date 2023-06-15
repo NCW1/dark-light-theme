@@ -16,7 +16,7 @@ function App() {
 	return (
 		<div className={`App ${themeClass}`}>
 			<Container className="d-flex flex-column align-items-center justify-content-center min-vh-100">
-				<h1>Dark and Light Theme</h1>
+				<h1>Dark & Light Theme</h1>
 				<h2 className="mt-4">{themeText}</h2>
 				<Button
 					variant="primary"
